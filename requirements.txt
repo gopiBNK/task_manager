@@ -1,0 +1,9 @@
+fastapi
+uvicorn
+streamlit
+requests
+sqlalchemy
+pymysql
+pydantic
+passlib
+python-jose
